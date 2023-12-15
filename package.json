@@ -4,7 +4,7 @@
   "description": "Function Node for execute python in Node-RED",
   "node-red": {
     "nodes": {
-      "tseigo-pyfunction": "lib/python-function-ps.js"
+      "tseigo-pyfunction": "lib/tseigo-python-function-ps.js"
     }
   },
   "repository": {
